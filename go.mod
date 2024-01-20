@@ -1,3 +1,3 @@
-module github.com/moby/patternmatcher
+module github.com/khulnasoft-lab/patternmatcher
 
 go 1.19
